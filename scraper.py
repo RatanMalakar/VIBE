@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import logging
+import psycopg2
+
 
 logging.basicConfig(
     level = logging.INFO,
@@ -22,8 +24,8 @@ def analyze_sentiment(title):
     else:
         return "Neutral"
     
-def start_research():
-    company = input("Enter the company's name to research : ")
+def start_research(company):
+
     try:
         logging.info(f"Research started for {company} .......")
 
@@ -51,9 +53,9 @@ def start_research():
         news_data.append({
         "Company" : company,
         "Title": title,
-        "Date" : pub_date,
         "Sentiment" : sentiment,
-        "Link" : link
+        "Link" : link,
+        "Date" : pub_date
         })
         
     logging.info("Data found")
@@ -65,12 +67,10 @@ def start_research():
     
     df = pd.DataFrame(news_data)
     df["Date"]=pd.to_datetime(df['Date'])
-    filename = f"{company}_Research_Report.xlsx"
+    filename = f"{company}.xlsx"
     logging.info("Saved as data frame")
 
     df.to_excel(filename ,index=False)
     logging.info("Saved to excel")
 
-    print(df)
-
-start_research()
+    return filename

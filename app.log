@@ -126,3 +126,238 @@
 2026-04-21 01:35:19,533 -INFO -Data found
 2026-04-21 01:35:19,534 -INFO -Starting sentiment analysis
 2026-04-21 01:35:19,536 -WARNING -Data not found
+2026-04-21 11:52:22,621 -INFO -Research started for marlboro .......
+2026-04-21 11:52:24,698 -INFO -Data found
+2026-04-21 11:52:24,699 -INFO -Starting sentiment analysis
+2026-04-21 11:52:24,723 -INFO -Saved as data frame
+2026-04-21 11:52:25,464 -INFO -Saved to excel
+2026-04-23 22:52:50,210 -INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-23 22:52:50,214 -INFO -[33mPress CTRL+C to quit[0m
+2026-04-23 22:52:50,263 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-23 22:52:54,373 -WARNING - * Debugger is active!
+2026-04-23 22:52:54,390 -INFO - * Debugger PIN: 919-591-278
+2026-04-23 22:54:35,474 -INFO -127.0.0.1 - - [23/Apr/2026 22:54:35] "GET / HTTP/1.1" 200 -
+2026-04-23 22:54:36,561 -INFO -127.0.0.1 - - [23/Apr/2026 22:54:36] "GET / HTTP/1.1" 200 -
+2026-04-23 22:54:42,806 -INFO -127.0.0.1 - - [23/Apr/2026 22:54:42] "GET / HTTP/1.1" 200 -
+2026-04-23 22:55:18,465 -INFO -Research started for tesla .......
+2026-04-23 22:55:20,832 -INFO -Data found
+2026-04-23 22:55:20,833 -INFO -Starting sentiment analysis
+2026-04-23 22:55:20,887 -INFO -Saved as data frame
+2026-04-23 22:55:22,422 -INFO -Saved to excel
+2026-04-23 22:55:22,430 -INFO -127.0.0.1 - - [23/Apr/2026 22:55:22] "GET /refresh?company=tesla HTTP/1.1" 200 -
+2026-04-23 22:56:41,293 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\pandas\\io\\common.py', reloading
+2026-04-23 22:56:41,980 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-23 22:56:46,737 -WARNING - * Debugger is active!
+2026-04-23 22:56:46,746 -INFO - * Debugger PIN: 919-591-278
+2026-04-23 22:56:46,900 -INFO -127.0.0.1 - - [23/Apr/2026 22:56:46] "[35m[1mGET /articles?company=tesla HTTP/1.1[0m" 500 -
+2026-04-23 22:56:47,245 -INFO -127.0.0.1 - - [23/Apr/2026 22:56:47] "[36mGET /articles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-23 22:56:47,339 -INFO -127.0.0.1 - - [23/Apr/2026 22:56:47] "[36mGET /articles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-23 22:56:47,456 -INFO -127.0.0.1 - - [23/Apr/2026 22:56:47] "GET /articles?__debugger__=yes&cmd=resource&f=console.png&s=0ObzsnvJvRXvbxfoLIMR HTTP/1.1" 200 -
+2026-04-23 22:56:47,539 -INFO -127.0.0.1 - - [23/Apr/2026 22:56:47] "[36mGET /articles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-23 22:58:35,035 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\scraper.py', reloading
+2026-04-23 22:58:35,655 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-23 22:58:41,465 -WARNING - * Debugger is active!
+2026-04-23 22:58:41,481 -INFO - * Debugger PIN: 919-591-278
+2026-04-23 22:59:06,868 -INFO -Research started for tesla .......
+2026-04-23 22:59:09,348 -INFO -Data found
+2026-04-23 22:59:09,349 -INFO -Starting sentiment analysis
+2026-04-23 22:59:09,408 -INFO -Saved as data frame
+2026-04-23 22:59:10,785 -INFO -Saved to excel
+2026-04-23 22:59:10,794 -INFO -127.0.0.1 - - [23/Apr/2026 22:59:10] "GET /refresh?company=tesla HTTP/1.1" 200 -
+2026-04-23 22:59:19,234 -INFO -127.0.0.1 - - [23/Apr/2026 22:59:19] "GET /articles?company=tesla HTTP/1.1" 200 -
+2026-04-23 23:00:07,580 -INFO -127.0.0.1 - - [23/Apr/2026 23:00:07] "[35m[1mGET /articles?company=kajaria HTTP/1.1[0m" 500 -
+2026-04-23 23:00:07,640 -INFO -127.0.0.1 - - [23/Apr/2026 23:00:07] "[36mGET /articles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-23 23:00:07,645 -INFO -127.0.0.1 - - [23/Apr/2026 23:00:07] "[36mGET /articles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-23 23:00:07,690 -INFO -127.0.0.1 - - [23/Apr/2026 23:00:07] "GET /articles?__debugger__=yes&cmd=resource&f=console.png&s=XyAWkqMWqtO1BjINSE3H HTTP/1.1" 200 -
+2026-04-23 23:00:24,158 -INFO -Research started for kajaria .......
+2026-04-23 23:00:27,311 -INFO -Data found
+2026-04-23 23:00:27,312 -INFO -Starting sentiment analysis
+2026-04-23 23:00:27,323 -INFO -Saved as data frame
+2026-04-23 23:00:27,460 -INFO -Saved to excel
+2026-04-23 23:00:27,468 -INFO -127.0.0.1 - - [23/Apr/2026 23:00:27] "GET /refresh?company=kajaria HTTP/1.1" 200 -
+2026-04-23 23:00:34,854 -INFO -127.0.0.1 - - [23/Apr/2026 23:00:34] "GET /articles?company=kajaria HTTP/1.1" 200 -
+2026-04-23 23:07:34,549 -INFO -127.0.0.1 - - [23/Apr/2026 23:07:34] "[35m[1mGET /articles?company=tata HTTP/1.1[0m" 500 -
+2026-04-23 23:07:34,594 -INFO -127.0.0.1 - - [23/Apr/2026 23:07:34] "[36mGET /articles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-23 23:07:34,603 -INFO -127.0.0.1 - - [23/Apr/2026 23:07:34] "[36mGET /articles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-23 23:07:34,641 -INFO -127.0.0.1 - - [23/Apr/2026 23:07:34] "[36mGET /articles?__debugger__=yes&cmd=resource&f=console.png&s=XyAWkqMWqtO1BjINSE3H HTTP/1.1[0m" 304 -
+2026-04-23 23:07:43,994 -INFO -Research started for tata .......
+2026-04-23 23:07:46,374 -INFO -Data found
+2026-04-23 23:07:46,375 -INFO -Starting sentiment analysis
+2026-04-23 23:07:46,394 -INFO -Saved as data frame
+2026-04-23 23:07:46,493 -INFO -Saved to excel
+2026-04-23 23:07:46,500 -INFO -127.0.0.1 - - [23/Apr/2026 23:07:46] "GET /refresh?company=tata HTTP/1.1" 200 -
+2026-04-23 23:08:12,686 -INFO -Research started for jio .......
+2026-04-23 23:08:16,105 -INFO -Data found
+2026-04-23 23:08:16,105 -INFO -Starting sentiment analysis
+2026-04-23 23:08:16,112 -INFO -Saved as data frame
+2026-04-23 23:08:16,206 -INFO -Saved to excel
+2026-04-23 23:08:16,212 -INFO -127.0.0.1 - - [23/Apr/2026 23:08:16] "GET /refresh?company=jio HTTP/1.1" 200 -
+2026-04-23 23:08:24,451 -INFO -Research started for airtel .......
+2026-04-23 23:08:27,301 -INFO -Data found
+2026-04-23 23:08:27,301 -INFO -Starting sentiment analysis
+2026-04-23 23:08:27,307 -INFO -Saved as data frame
+2026-04-23 23:08:27,404 -INFO -Saved to excel
+2026-04-23 23:08:27,414 -INFO -127.0.0.1 - - [23/Apr/2026 23:08:27] "GET /refresh?company=airtel HTTP/1.1" 200 -
+2026-04-23 23:08:48,270 -INFO -Research started for nike .......
+2026-04-23 23:08:50,683 -INFO -Data found
+2026-04-23 23:08:50,684 -INFO -Starting sentiment analysis
+2026-04-23 23:08:50,689 -INFO -Saved as data frame
+2026-04-23 23:08:50,790 -INFO -Saved to excel
+2026-04-23 23:08:50,800 -INFO -127.0.0.1 - - [23/Apr/2026 23:08:50] "GET /refresh?company=nike HTTP/1.1" 200 -
+2026-04-23 23:09:06,664 -INFO -Research started for amazom .......
+2026-04-23 23:09:10,076 -INFO -Data found
+2026-04-23 23:09:10,077 -INFO -Starting sentiment analysis
+2026-04-23 23:09:10,084 -INFO -Saved as data frame
+2026-04-23 23:09:10,179 -INFO -Saved to excel
+2026-04-23 23:09:10,186 -INFO -127.0.0.1 - - [23/Apr/2026 23:09:10] "GET /refresh?company=amazom HTTP/1.1" 200 -
+2026-04-23 23:09:14,053 -INFO -Research started for amazon .......
+2026-04-23 23:09:18,093 -INFO -Data found
+2026-04-23 23:09:18,094 -INFO -Starting sentiment analysis
+2026-04-23 23:09:18,100 -INFO -Saved as data frame
+2026-04-23 23:09:18,194 -INFO -Saved to excel
+2026-04-23 23:09:18,202 -INFO -127.0.0.1 - - [23/Apr/2026 23:09:18] "GET /refresh?company=amazon HTTP/1.1" 200 -
+2026-04-23 23:09:23,236 -INFO -Research started for flipkart .......
+2026-04-23 23:09:26,825 -INFO -Data found
+2026-04-23 23:09:26,825 -INFO -Starting sentiment analysis
+2026-04-23 23:09:26,831 -INFO -Saved as data frame
+2026-04-23 23:09:26,919 -INFO -Saved to excel
+2026-04-23 23:09:26,927 -INFO -127.0.0.1 - - [23/Apr/2026 23:09:26] "GET /refresh?company=flipkart HTTP/1.1" 200 -
+2026-04-23 23:09:40,555 -INFO -Research started for pepe .......
+2026-04-23 23:09:44,402 -INFO -Data found
+2026-04-23 23:09:44,402 -INFO -Starting sentiment analysis
+2026-04-23 23:09:44,410 -INFO -Saved as data frame
+2026-04-23 23:09:44,517 -INFO -Saved to excel
+2026-04-23 23:09:44,528 -INFO -127.0.0.1 - - [23/Apr/2026 23:09:44] "GET /refresh?company=pepe HTTP/1.1" 200 -
+2026-04-23 23:10:12,259 -INFO -127.0.0.1 - - [23/Apr/2026 23:10:12] "GET /articles?company=amazom HTTP/1.1" 200 -
+2026-04-23 23:33:27,754 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2026-04-23 23:33:32,484 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-23 23:33:38,058 -WARNING - * Debugger is active!
+2026-04-23 23:33:38,072 -INFO - * Debugger PIN: 919-591-278
+2026-04-23 23:33:41,175 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\__init__.py', reloading
+2026-04-23 23:33:41,821 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-23 23:33:49,055 -WARNING - * Debugger is active!
+2026-04-23 23:33:49,066 -INFO - * Debugger PIN: 919-591-278
+2026-04-23 23:54:45,394 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\scraper.py', reloading
+2026-04-23 23:54:46,612 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-23 23:55:46,126 -INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-23 23:55:46,128 -INFO -[33mPress CTRL+C to quit[0m
+2026-04-23 23:55:46,172 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-23 23:55:49,955 -WARNING - * Debugger is active!
+2026-04-23 23:55:49,974 -INFO - * Debugger PIN: 919-591-278
+2026-04-23 23:59:37,898 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\werkzeug\\local.py', reloading
+2026-04-23 23:59:39,738 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-23 23:59:48,275 -WARNING - * Debugger is active!
+2026-04-23 23:59:48,292 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 00:00:25,875 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\app.py', reloading
+2026-04-24 00:00:26,429 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 00:00:31,732 -WARNING - * Debugger is active!
+2026-04-24 00:00:31,742 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 00:00:32,842 -INFO -127.0.0.1 - - [24/Apr/2026 00:00:32] "GET / HTTP/1.1" 200 -
+2026-04-24 00:04:38,125 -INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-24 00:04:38,128 -INFO -[33mPress CTRL+C to quit[0m
+2026-04-24 00:04:38,246 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 00:04:42,136 -WARNING - * Debugger is active!
+2026-04-24 00:04:42,154 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 00:04:42,280 -INFO -127.0.0.1 - - [24/Apr/2026 00:04:42] "GET / HTTP/1.1" 200 -
+2026-04-24 00:04:42,287 -INFO -127.0.0.1 - - [24/Apr/2026 00:04:42] "GET / HTTP/1.1" 200 -
+2026-04-24 00:04:42,396 -INFO -127.0.0.1 - - [24/Apr/2026 00:04:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-24 00:04:42,418 -INFO -127.0.0.1 - - [24/Apr/2026 00:04:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-24 00:05:28,424 -INFO -Research started for amazon .......
+2026-04-24 00:05:30,894 -INFO -Data found
+2026-04-24 00:05:30,895 -INFO -Starting sentiment analysis
+2026-04-24 00:05:30,940 -INFO -Saved as data frame
+2026-04-24 00:05:32,561 -INFO -Saved to excel
+2026-04-24 00:05:32,569 -INFO -127.0.0.1 - - [24/Apr/2026 00:05:32] "GET /refresh?company=amazon HTTP/1.1" 200 -
+2026-04-24 00:05:39,820 -INFO -127.0.0.1 - - [24/Apr/2026 00:05:39] "GET /articles?company=amazon HTTP/1.1" 200 -
+2026-04-24 00:23:33,350 -INFO - * Detected change in 'c:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\app.py', reloading
+2026-04-24 00:23:34,123 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 00:23:43,217 -WARNING - * Debugger is active!
+2026-04-24 00:23:43,228 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 00:23:43,781 -INFO -127.0.0.1 - - [24/Apr/2026 00:23:43] "GET / HTTP/1.1" 200 -
+2026-04-24 07:16:25,896 -INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-24 07:16:25,900 -INFO -[33mPress CTRL+C to quit[0m
+2026-04-24 07:16:25,951 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 07:16:34,313 -WARNING - * Debugger is active!
+2026-04-24 07:16:34,330 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 07:16:34,514 -INFO -127.0.0.1 - - [24/Apr/2026 07:16:34] "GET / HTTP/1.1" 200 -
+2026-04-24 07:16:34,525 -INFO -127.0.0.1 - - [24/Apr/2026 07:16:34] "GET / HTTP/1.1" 200 -
+2026-04-24 07:16:34,761 -INFO -127.0.0.1 - - [24/Apr/2026 07:16:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-24 07:16:34,793 -INFO -127.0.0.1 - - [24/Apr/2026 07:16:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-24 07:17:26,880 -INFO -127.0.0.1 - - [24/Apr/2026 07:17:26] "GET /articles?company=tesla HTTP/1.1" 200 -
+2026-04-24 07:17:29,123 -INFO -127.0.0.1 - - [24/Apr/2026 07:17:29] "GET /articles?company=tesla HTTP/1.1" 200 -
+2026-04-24 07:17:31,004 -INFO -127.0.0.1 - - [24/Apr/2026 07:17:31] "GET /articles?company=tesla HTTP/1.1" 200 -
+2026-04-24 07:19:16,203 -INFO -127.0.0.1 - - [24/Apr/2026 07:19:16] "GET /articles?company=tesla HTTP/1.1" 200 -
+2026-04-24 07:26:04,394 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:04] "GET / HTTP/1.1" 200 -
+2026-04-24 07:26:23,608 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\pandas\\io\\excel\\_base.py', reloading
+2026-04-24 07:26:24,698 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 07:26:30,027 -WARNING - * Debugger is active!
+2026-04-24 07:26:30,150 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 07:26:30,660 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:30] "GET / HTTP/1.1" 200 -
+2026-04-24 07:26:30,729 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\pandas\\io\\common.py', reloading
+2026-04-24 07:26:31,543 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 07:26:35,976 -WARNING - * Debugger is active!
+2026-04-24 07:26:36,011 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 07:26:36,518 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:36] "GET /articles?company= HTTP/1.1" 200 -
+2026-04-24 07:26:36,563 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:36] "GET /articles?company= HTTP/1.1" 200 -
+2026-04-24 07:26:36,574 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:36] "GET / HTTP/1.1" 200 -
+2026-04-24 07:26:36,621 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:36] "GET /articles?company= HTTP/1.1" 200 -
+2026-04-24 07:26:36,643 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:36] "GET /articles?company= HTTP/1.1" 200 -
+2026-04-24 07:26:36,703 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:36] "GET /articles?company= HTTP/1.1" 200 -
+2026-04-24 07:26:36,737 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:36] "GET /articles?company= HTTP/1.1" 200 -
+2026-04-24 07:26:36,820 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:36] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:36,965 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:36] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:37,068 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:37] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:37,171 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:37] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:37,235 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:37] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:37,289 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:37] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:37,349 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:37] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:37,419 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:37] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:37,488 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:37] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:37,564 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:37] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:37,645 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:37] "[35m[1mGET /articles?company=bmw HTTP/1.1[0m" 500 -
+2026-04-24 07:26:59,237 -INFO -127.0.0.1 - - [24/Apr/2026 07:26:59] "GET /articles?company=tata HTTP/1.1" 200 -
+2026-04-24 07:27:05,356 -INFO -127.0.0.1 - - [24/Apr/2026 07:27:05] "[33mGET /undefined HTTP/1.1[0m" 404 -
+2026-04-24 07:29:05,960 -INFO - * Detected change in 'C:\\Program Files\\Python313\\Lib\\typing.py', reloading
+2026-04-24 07:29:07,756 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 07:29:15,329 -WARNING - * Debugger is active!
+2026-04-24 07:29:15,346 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 07:29:15,737 -INFO -127.0.0.1 - - [24/Apr/2026 07:29:15] "GET / HTTP/1.1" 200 -
+2026-04-24 07:29:16,070 -INFO - * Detected change in 'c:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\app.py', reloading
+2026-04-24 07:29:16,715 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 07:29:20,677 -WARNING - * Debugger is active!
+2026-04-24 07:29:20,692 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 07:29:20,894 -INFO -127.0.0.1 - - [24/Apr/2026 07:29:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-24 07:29:21,299 -INFO -127.0.0.1 - - [24/Apr/2026 07:29:21] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-04-24 07:29:21,376 -INFO -127.0.0.1 - - [24/Apr/2026 07:29:21] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-04-24 07:29:21,511 -INFO -127.0.0.1 - - [24/Apr/2026 07:29:21] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=itILcIQVnxPlPZLd7C1M HTTP/1.1" 200 -
+2026-04-24 07:29:21,570 -INFO -127.0.0.1 - - [24/Apr/2026 07:29:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-04-24 07:29:40,231 -INFO -127.0.0.1 - - [24/Apr/2026 07:29:40] "GET /articles?company=tesla HTTP/1.1" 200 -
+2026-04-24 07:29:42,216 -INFO -127.0.0.1 - - [24/Apr/2026 07:29:42] "[33mGET /undefined HTTP/1.1[0m" 404 -
+2026-04-24 07:30:05,315 -INFO -127.0.0.1 - - [24/Apr/2026 07:30:05] "[35m[1mGET /articles?company=mercedes HTTP/1.1[0m" 500 -
+2026-04-24 07:30:12,443 -INFO -127.0.0.1 - - [24/Apr/2026 07:30:12] "[35m[1mGET /articles?company=mercedes HTTP/1.1[0m" 500 -
+2026-04-24 07:30:15,634 -INFO -127.0.0.1 - - [24/Apr/2026 07:30:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-24 07:30:15,671 -INFO -127.0.0.1 - - [24/Apr/2026 07:30:15] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-24 07:30:15,680 -INFO -127.0.0.1 - - [24/Apr/2026 07:30:15] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-24 07:30:15,782 -INFO -127.0.0.1 - - [24/Apr/2026 07:30:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=itILcIQVnxPlPZLd7C1M HTTP/1.1[0m" 304 -
+2026-04-24 07:30:15,848 -INFO -127.0.0.1 - - [24/Apr/2026 07:30:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-24 07:31:18,746 -INFO - * Detected change in 'c:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\app.py', reloading
+2026-04-24 07:31:19,508 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 07:32:43,033 -INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-24 07:32:43,035 -INFO -[33mPress CTRL+C to quit[0m
+2026-04-24 07:32:43,228 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 07:32:47,949 -WARNING - * Debugger is active!
+2026-04-24 07:32:47,980 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 07:32:48,295 -INFO -127.0.0.1 - - [24/Apr/2026 07:32:48] "GET / HTTP/1.1" 200 -
+2026-04-24 07:32:48,305 -INFO -127.0.0.1 - - [24/Apr/2026 07:32:48] "GET / HTTP/1.1" 200 -
+2026-04-24 07:32:57,826 -INFO -127.0.0.1 - - [24/Apr/2026 07:32:57] "GET /articles?company=tata HTTP/1.1" 200 -
+2026-04-24 07:33:01,282 -INFO -127.0.0.1 - - [24/Apr/2026 07:33:01] "[33mGET /undefined HTTP/1.1[0m" 404 -
+2026-04-24 07:34:03,679 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+2026-04-24 07:34:05,097 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-24 07:34:10,574 -WARNING - * Debugger is active!
+2026-04-24 07:34:10,589 -INFO - * Debugger PIN: 919-591-278
+2026-04-24 07:34:10,779 -INFO -127.0.0.1 - - [24/Apr/2026 07:34:10] "GET / HTTP/1.1" 200 -

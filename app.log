@@ -361,3 +361,288 @@
 2026-04-24 07:34:10,574 -WARNING - * Debugger is active!
 2026-04-24 07:34:10,589 -INFO - * Debugger PIN: 919-591-278
 2026-04-24 07:34:10,779 -INFO -127.0.0.1 - - [24/Apr/2026 07:34:10] "GET / HTTP/1.1" 200 -
+2026-04-25 14:28:25,861 -INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-25 14:28:25,869 -INFO -[33mPress CTRL+C to quit[0m
+2026-04-25 14:28:25,939 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:28:31,099 -WARNING - * Debugger is active!
+2026-04-25 14:28:31,115 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:28:31,469 -INFO -127.0.0.1 - - [25/Apr/2026 14:28:31] "GET / HTTP/1.1" 200 -
+2026-04-25 14:28:31,475 -INFO -127.0.0.1 - - [25/Apr/2026 14:28:31] "GET / HTTP/1.1" 200 -
+2026-04-25 14:28:31,630 -INFO -127.0.0.1 - - [25/Apr/2026 14:28:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-25 14:28:31,657 -INFO -127.0.0.1 - - [25/Apr/2026 14:28:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-25 14:28:44,465 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\pandas\\io\\excel\\_base.py', reloading
+2026-04-25 14:28:44,729 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:28:46,821 -WARNING - * Debugger is active!
+2026-04-25 14:28:46,828 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:28:46,929 -INFO -127.0.0.1 - - [25/Apr/2026 14:28:46] "GET / HTTP/1.1" 200 -
+2026-04-25 14:28:46,944 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\pandas\\io\\common.py', reloading
+2026-04-25 14:28:47,219 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:28:49,460 -WARNING - * Debugger is active!
+2026-04-25 14:28:49,469 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:28:49,545 -INFO -127.0.0.1 - - [25/Apr/2026 14:28:49] "GET / HTTP/1.1" 200 -
+2026-04-25 14:29:21,120 -INFO -127.0.0.1 - - [25/Apr/2026 14:29:21] "[35m[1mGET /articles?company=marlboro HTTP/1.1[0m" 500 -
+2026-04-25 14:29:21,404 -INFO -127.0.0.1 - - [25/Apr/2026 14:29:21] "[36mGET /articles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-25 14:29:21,410 -INFO -127.0.0.1 - - [25/Apr/2026 14:29:21] "[36mGET /articles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-25 14:29:21,473 -INFO -127.0.0.1 - - [25/Apr/2026 14:29:21] "GET /articles?__debugger__=yes&cmd=resource&f=console.png&s=RzI2Zp4n6RSZpEaPBut6 HTTP/1.1" 200 -
+2026-04-25 14:29:21,499 -INFO -127.0.0.1 - - [25/Apr/2026 14:29:21] "[36mGET /articles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-25 14:47:45,650 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\scraper\\nlp_utils.py', reloading
+2026-04-25 14:47:47,067 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:48:02,277 -WARNING - * Debugger is active!
+2026-04-25 14:48:02,296 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:48:02,547 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\werkzeug\\urls.py', reloading
+2026-04-25 14:48:03,254 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:48:07,561 -WARNING - * Debugger is active!
+2026-04-25 14:48:07,580 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:48:07,701 -INFO -127.0.0.1 - - [25/Apr/2026 14:48:07] "GET / HTTP/1.1" 200 -
+2026-04-25 14:48:07,708 -INFO -127.0.0.1 - - [25/Apr/2026 14:48:07] "GET / HTTP/1.1" 200 -
+2026-04-25 14:49:20,254 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\scraper\\scraper.py', reloading
+2026-04-25 14:49:28,368 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:49:47,579 -WARNING - * Debugger is active!
+2026-04-25 14:49:47,594 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:49:47,888 -INFO -127.0.0.1 - - [25/Apr/2026 14:49:47] "GET / HTTP/1.1" 200 -
+2026-04-25 14:50:07,580 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\scraper\\scraper.py', reloading
+2026-04-25 14:50:08,378 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:50:13,367 -WARNING - * Debugger is active!
+2026-04-25 14:50:13,374 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:50:13,572 -INFO -127.0.0.1 - - [25/Apr/2026 14:50:13] "GET / HTTP/1.1" 200 -
+2026-04-25 14:50:19,036 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\backend\\app.py', reloading
+2026-04-25 14:50:19,372 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:50:22,243 -WARNING - * Debugger is active!
+2026-04-25 14:50:22,251 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:50:22,360 -INFO -127.0.0.1 - - [25/Apr/2026 14:50:22] "GET / HTTP/1.1" 200 -
+2026-04-25 14:50:55,172 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\scraper\\scraper.py', reloading
+2026-04-25 14:50:55,557 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:50:58,945 -WARNING - * Debugger is active!
+2026-04-25 14:50:58,955 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:50:59,180 -INFO -127.0.0.1 - - [25/Apr/2026 14:50:59] "GET / HTTP/1.1" 200 -
+2026-04-25 14:53:08,865 -INFO - * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\pandas\\api\\__init__.py', reloading
+2026-04-25 14:53:11,376 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:53:17,402 -WARNING - * Debugger is active!
+2026-04-25 14:53:17,412 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:53:17,899 -INFO -127.0.0.1 - - [25/Apr/2026 14:53:17] "GET / HTTP/1.1" 200 -
+2026-04-25 14:53:28,952 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\db\\db_connection.py', reloading
+2026-04-25 14:53:29,318 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:53:32,783 -WARNING - * Debugger is active!
+2026-04-25 14:53:32,796 -INFO - * Debugger PIN: 919-591-278
+2026-04-25 14:53:32,964 -INFO -127.0.0.1 - - [25/Apr/2026 14:53:32] "GET / HTTP/1.1" 200 -
+2026-04-25 14:54:23,071 -INFO -127.0.0.1 - - [25/Apr/2026 14:54:23] "[35m[1mGET /articles?company=APPLE HTTP/1.1[0m" 500 -
+2026-04-25 14:54:26,346 -INFO -127.0.0.1 - - [25/Apr/2026 14:54:26] "[35m[1mGET /articles?company=APPLE HTTP/1.1[0m" 500 -
+2026-04-25 14:54:27,745 -INFO -127.0.0.1 - - [25/Apr/2026 14:54:27] "[35m[1mGET /articles?company=APPLE HTTP/1.1[0m" 500 -
+2026-04-25 14:54:40,237 -INFO -127.0.0.1 - - [25/Apr/2026 14:54:40] "[35m[1mGET /articles?company=APPLE HTTP/1.1[0m" 500 -
+2026-04-25 14:54:40,381 -INFO -127.0.0.1 - - [25/Apr/2026 14:54:40] "[35m[1mGET /articles?company=APPLE HTTP/1.1[0m" 500 -
+2026-04-25 14:54:50,100 -INFO -127.0.0.1 - - [25/Apr/2026 14:54:50] "GET /articles?company=TESLA HTTP/1.1" 200 -
+2026-04-25 14:54:55,987 -INFO -127.0.0.1 - - [25/Apr/2026 14:54:55] "[33mGET /undefined HTTP/1.1[0m" 404 -
+2026-04-25 14:54:59,599 -INFO -127.0.0.1 - - [25/Apr/2026 14:54:59] "[33mGET /undefined HTTP/1.1[0m" 404 -
+2026-04-25 14:55:25,589 -INFO -127.0.0.1 - - [25/Apr/2026 14:55:25] "[35m[1mGET /articles?company=SAMSUNG HTTP/1.1[0m" 500 -
+2026-04-25 14:55:28,328 -INFO -127.0.0.1 - - [25/Apr/2026 14:55:28] "[35m[1mGET /articles?company=SAMSUNG HTTP/1.1[0m" 500 -
+2026-04-25 14:55:32,170 -INFO -127.0.0.1 - - [25/Apr/2026 14:55:32] "[33mGET /undefined HTTP/1.1[0m" 404 -
+2026-04-25 14:56:05,428 -INFO -127.0.0.1 - - [25/Apr/2026 14:56:05] "GET / HTTP/1.1" 200 -
+2026-04-25 14:56:13,479 -INFO -127.0.0.1 - - [25/Apr/2026 14:56:13] "[35m[1mGET /articles?company=samsung HTTP/1.1[0m" 500 -
+2026-04-25 14:56:23,794 -INFO -127.0.0.1 - - [25/Apr/2026 14:56:23] "[35m[1mGET /articles?company=samsung HTTP/1.1[0m" 500 -
+2026-04-25 14:56:30,870 -INFO -127.0.0.1 - - [25/Apr/2026 14:56:30] "[35m[1mGET /articles?company=samsung HTTP/1.1[0m" 500 -
+2026-04-25 14:56:31,190 -INFO -127.0.0.1 - - [25/Apr/2026 14:56:31] "[35m[1mGET /articles?company=samsung HTTP/1.1[0m" 500 -
+2026-04-25 14:56:31,444 -INFO -127.0.0.1 - - [25/Apr/2026 14:56:31] "[35m[1mGET /articles?company=samsung HTTP/1.1[0m" 500 -
+2026-04-25 14:56:31,682 -INFO -127.0.0.1 - - [25/Apr/2026 14:56:31] "[35m[1mGET /articles?company=samsung HTTP/1.1[0m" 500 -
+2026-04-25 14:58:27,479 -INFO - * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\app.py', reloading
+2026-04-25 14:58:29,101 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:58:32,034 - WARNING -  * Debugger is active!
+2026-04-25 14:58:32,046 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 14:58:32,968 - INFO -  * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\app.py', reloading
+2026-04-25 14:58:33,315 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:58:35,647 - WARNING -  * Debugger is active!
+2026-04-25 14:58:35,655 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 14:59:34,357 - INFO -  * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\app.py', reloading
+2026-04-25 14:59:35,254 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:59:38,979 - WARNING -  * Debugger is active!
+2026-04-25 14:59:39,013 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 14:59:55,815 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\encodings\\cp1252.py', reloading
+2026-04-25 14:59:56,061 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 14:59:57,871 - WARNING -  * Debugger is active!
+2026-04-25 14:59:57,877 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 15:01:22,330 - INFO -  * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\app.py', reloading
+2026-04-25 15:01:22,851 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 15:01:24,883 - WARNING -  * Debugger is active!
+2026-04-25 15:01:24,897 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 15:01:36,148 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-25 15:01:36,149 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-25 15:01:36,169 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-25 15:01:37,808 - WARNING -  * Debugger is active!
+2026-04-25 15:01:37,813 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 15:02:41,505 - INFO - 127.0.0.1 - - [25/Apr/2026 15:02:41] "GET / HTTP/1.1" 200 -
+2026-04-25 15:02:42,178 - INFO - 127.0.0.1 - - [25/Apr/2026 15:02:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-25 15:02:51,103 - INFO - GET /articles?company=tesla
+2026-04-25 15:02:53,011 - INFO - 127.0.0.1 - - [25/Apr/2026 15:02:53] "GET /articles?company=tesla HTTP/1.1" 200 -
+2026-04-25 15:07:15,757 - INFO - GET /refresh?company=tesla
+2026-04-25 15:07:20,005 - INFO - Research started for: 'tesla'
+2026-04-25 15:07:26,682 - INFO - RSS fetch successful (200) for 'tesla'
+2026-04-25 15:07:26,903 - INFO - Found 104 raw articles for 'tesla'
+2026-04-25 15:07:28,482 - INFO - Saved 15 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\tesla.xlsx
+2026-04-25 15:07:29,226 - INFO - 127.0.0.1 - - [25/Apr/2026 15:07:29] "GET /refresh?company=tesla HTTP/1.1" 200 -
+2026-04-25 15:08:37,250 - INFO - GET /articles?company=tesla
+2026-04-25 15:08:37,709 - INFO - 127.0.0.1 - - [25/Apr/2026 15:08:37] "GET /articles?company=tesla HTTP/1.1" 200 -
+2026-04-25 15:09:07,538 - INFO - GET /articles?company=tesla
+2026-04-25 15:09:10,070 - INFO - 127.0.0.1 - - [25/Apr/2026 15:09:10] "GET /articles?company=tesla HTTP/1.1" 200 -
+2026-04-25 15:09:40,952 - INFO - 127.0.0.1 - - [25/Apr/2026 15:09:40] "[31m[1mGET /articles?company=INVALIDSYMBOL!!! HTTP/1.1[0m" 400 -
+2026-04-25 15:12:12,049 - INFO - 127.0.0.1 - - [25/Apr/2026 15:12:12] "[36mGET / HTTP/1.1[0m" 304 -
+2026-04-25 15:16:55,196 - INFO - GET /articles?company=amazon
+2026-04-25 15:16:56,579 - INFO - 127.0.0.1 - - [25/Apr/2026 15:16:56] "GET /articles?company=amazon HTTP/1.1" 200 -
+2026-04-25 15:21:30,367 - INFO - 127.0.0.1 - - [25/Apr/2026 15:21:30] "[31m[1mGET /articles?company=INVALIDSYMBOL!!! HTTP/1.1[0m" 400 -
+2026-04-25 15:21:37,779 - INFO - 127.0.0.1 - - [25/Apr/2026 15:21:37] "[36mGET / HTTP/1.1[0m" 304 -
+2026-04-25 15:22:05,905 - INFO - GET /articles?company=balenciaga
+2026-04-25 15:22:05,926 - INFO - No cache for 'balenciaga', running scraper…
+2026-04-25 15:22:05,931 - INFO - Research started for: 'balenciaga'
+2026-04-25 15:22:08,223 - INFO - RSS fetch successful (200) for 'balenciaga'
+2026-04-25 15:22:08,586 - INFO - Found 100 raw articles for 'balenciaga'
+2026-04-25 15:22:09,731 - INFO - Saved 15 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\balenciaga.xlsx
+2026-04-25 15:22:10,471 - INFO - 127.0.0.1 - - [25/Apr/2026 15:22:10] "GET /articles?company=balenciaga HTTP/1.1" 200 -
+2026-04-25 15:23:30,710 - INFO - GET /articles?company=marlboro
+2026-04-25 15:23:30,850 - INFO - No cache for 'marlboro', running scraper…
+2026-04-25 15:23:30,871 - INFO - Research started for: 'marlboro'
+2026-04-25 15:23:34,582 - INFO - RSS fetch successful (200) for 'marlboro'
+2026-04-25 15:23:35,068 - INFO - Found 100 raw articles for 'marlboro'
+2026-04-25 15:23:35,203 - INFO - [FILTERED] Not relevant to 'marlboro': Philip Morris trims annual profit forecast amid nicotine pouch uncerta
+2026-04-25 15:23:40,045 - INFO - Saved 14 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\marlboro.xlsx
+2026-04-25 15:23:42,598 - INFO - 127.0.0.1 - - [25/Apr/2026 15:23:42] "GET /articles?company=marlboro HTTP/1.1" 200 -
+2026-04-25 15:24:32,155 - INFO - GET /articles?company=tata steel
+2026-04-25 15:24:32,362 - INFO - No cache for 'tata steel', running scraper…
+2026-04-25 15:24:32,388 - INFO - Research started for: 'tata steel'
+2026-04-25 15:24:37,066 - INFO - RSS fetch successful (200) for 'tata steel'
+2026-04-25 15:24:38,142 - INFO - Found 100 raw articles for 'tata steel'
+2026-04-25 15:24:40,331 - INFO - Saved 15 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\tata_steel.xlsx
+2026-04-25 15:24:41,194 - INFO - 127.0.0.1 - - [25/Apr/2026 15:24:41] "GET /articles?company=tata%20steel HTTP/1.1" 200 -
+2026-04-25 15:25:18,490 - INFO - GET /articles?company=tata stock
+2026-04-25 15:25:18,548 - INFO - No cache for 'tata stock', running scraper…
+2026-04-25 15:25:18,573 - INFO - Research started for: 'tata stock'
+2026-04-25 15:25:25,237 - INFO - RSS fetch successful (200) for 'tata stock'
+2026-04-25 15:25:26,655 - INFO - Found 100 raw articles for 'tata stock'
+2026-04-25 15:25:26,702 - INFO - [FILTERED] Not relevant to 'tata stock': Tata Motors PV Share Price Live Updates: Tata Motors PV's beta suggest
+2026-04-25 15:25:26,745 - INFO - [FILTERED] Not relevant to 'tata stock': Tata Elxsi falls 5% after Q4 results; brokerages stay cautious: Here's
+2026-04-25 15:25:26,766 - INFO - [FILTERED] Not relevant to 'tata stock': Tata Elxsi Share Price: FIIs ne lagayi daav, AI ke chakkar mein IT sec
+2026-04-25 15:25:26,779 - INFO - [FILTERED] Not relevant to 'tata stock': SAIL vs Tata Steel 2026 Performance: Which Steel Giant Is Leading Indi
+2026-04-25 15:25:30,066 - INFO - Saved 11 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\tata_stock.xlsx
+2026-04-25 15:25:31,155 - INFO - 127.0.0.1 - - [25/Apr/2026 15:25:31] "GET /articles?company=tata%20stock HTTP/1.1" 200 -
+2026-04-25 15:26:41,589 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\__init__.py', reloading
+2026-04-25 15:26:52,414 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 15:27:06,157 - WARNING -  * Debugger is active!
+2026-04-25 15:27:06,256 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 15:27:06,955 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2026-04-25 15:27:08,486 -INFO - * Restarting with watchdog (windowsapi)
+2026-04-25 15:27:37,910 - WARNING -  * Debugger is active!
+2026-04-25 15:27:38,068 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 22:20:46,114 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-25 22:20:46,125 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-25 22:20:46,234 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-25 22:20:51,626 - WARNING -  * Debugger is active!
+2026-04-25 22:20:51,640 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 22:20:55,702 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\feedparser\\__init__.py', reloading
+2026-04-25 22:20:56,743 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-25 22:21:05,605 - WARNING -  * Debugger is active!
+2026-04-25 22:21:05,612 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 22:21:11,295 - INFO - 127.0.0.1 - - [25/Apr/2026 22:21:11] "GET / HTTP/1.1" 200 -
+2026-04-25 22:21:11,320 - INFO - 127.0.0.1 - - [25/Apr/2026 22:21:11] "[36mGET / HTTP/1.1[0m" 304 -
+2026-04-25 22:21:12,172 - INFO - 127.0.0.1 - - [25/Apr/2026 22:21:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-25 22:21:30,997 - INFO - GET /articles?company=tata stock
+2026-04-25 22:21:33,147 - INFO - 127.0.0.1 - - [25/Apr/2026 22:21:33] "GET /articles?company=tata%20stock HTTP/1.1" 200 -
+2026-04-25 22:22:13,307 - INFO - GET /articles?company=hero
+2026-04-25 22:22:13,310 - INFO - No cache for 'hero', running scraper…
+2026-04-25 22:22:14,415 - INFO - Research started for: 'hero'
+2026-04-25 22:22:16,851 - INFO - RSS fetch successful (200) for 'hero'
+2026-04-25 22:22:16,907 - INFO - Found 100 raw articles for 'hero'
+2026-04-25 22:22:17,158 - INFO - Saved 15 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\hero.xlsx
+2026-04-25 22:22:17,321 - INFO - 127.0.0.1 - - [25/Apr/2026 22:22:17] "GET /articles?company=hero HTTP/1.1" 200 -
+2026-04-25 22:22:29,845 - INFO - GET /articles?company=hero bike
+2026-04-25 22:22:29,850 - INFO - No cache for 'hero bike', running scraper…
+2026-04-25 22:22:29,854 - INFO - Research started for: 'hero bike'
+2026-04-25 22:22:32,454 - INFO - RSS fetch successful (200) for 'hero bike'
+2026-04-25 22:22:32,506 - INFO - Found 100 raw articles for 'hero bike'
+2026-04-25 22:22:32,642 - INFO - Saved 15 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\hero_bike.xlsx
+2026-04-25 22:22:32,745 - INFO - 127.0.0.1 - - [25/Apr/2026 22:22:32] "GET /articles?company=hero%20bike HTTP/1.1" 200 -
+2026-04-25 22:23:10,203 - INFO - GET /articles?company=hindustan petrolium
+2026-04-25 22:23:10,206 - INFO - No cache for 'hindustan petrolium', running scraper…
+2026-04-25 22:23:10,207 - INFO - Research started for: 'hindustan petrolium'
+2026-04-25 22:23:12,193 - INFO - RSS fetch successful (200) for 'hindustan petrolium'
+2026-04-25 22:23:12,251 - INFO - Found 100 raw articles for 'hindustan petrolium'
+2026-04-25 22:23:12,253 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum Sees Sharp Open Interest Surge Amid Market Downtur
+2026-04-25 22:23:12,260 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum Corporation Ltd soars 1.48%, gains for fifth strai
+2026-04-25 22:23:12,262 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum carries out surprise inspections to curb malpracti
+2026-04-25 22:23:12,265 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum Corp Ltd stock: Why it's a key player in India's e
+2026-04-25 22:23:12,267 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum Sees Sharp Open Interest Surge Amid Price Decline 
+2026-04-25 22:23:12,270 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Market Trading Guide: Buy Hindustan Copper and Hindustan Petroleum on 
+2026-04-25 22:23:12,276 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Petrol Price Hike on Tuesday? Indian Oil, Hindustan Petroleum, Bharat 
+2026-04-25 22:23:12,279 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Bharat Petroleum and Hindustan Petroleum Assure No Fuel Shortage Acros
+2026-04-25 22:23:12,281 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Charge_iN by Mahindra Signs Strategic Agreement with HPCL to develop E
+2026-04-25 22:23:12,283 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': SAM, HFW steer USD3bn Hindustan Petroleum-Abu Dhabi LNG deal - Law.asi
+2026-04-25 22:23:12,286 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum Corp Ltd stock: LPG crackdown signals supply disci
+2026-04-25 22:23:12,295 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum Corporation Ltd. is Rated Hold - Markets Mojo
+2026-04-25 22:23:12,298 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum Corporation Ltd. Opens 4.34% Lower as Technicals S
+2026-04-25 22:23:12,302 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum Corporation Ltd. Rallies 5.0% and App... - Markets
+2026-04-25 22:23:12,309 - INFO - [FILTERED] Not relevant to 'hindustan petrolium': Hindustan Petroleum Corporation Ltd. Opens 8.65% Higher in Sharp Gap U
+2026-04-25 22:23:12,313 - WARNING - No relevant articles found for 'hindustan petrolium' after filtering
+2026-04-25 22:23:12,321 - INFO - 127.0.0.1 - - [25/Apr/2026 22:23:12] "[33mGET /articles?company=hindustan%20petrolium HTTP/1.1[0m" 404 -
+2026-04-25 22:23:18,078 - INFO - GET /articles?company=hp
+2026-04-25 22:23:18,081 - INFO - No cache for 'hp', running scraper…
+2026-04-25 22:23:18,083 - INFO - Research started for: 'hp'
+2026-04-25 22:23:19,964 - INFO - RSS fetch successful (200) for 'hp'
+2026-04-25 22:23:20,030 - INFO - Found 100 raw articles for 'hp'
+2026-04-25 22:23:20,212 - INFO - Saved 15 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\hp.xlsx
+2026-04-25 22:23:20,314 - INFO - 127.0.0.1 - - [25/Apr/2026 22:23:20] "GET /articles?company=hp HTTP/1.1" 200 -
+2026-04-25 22:23:47,707 - INFO - GET /articles?company=indian oil
+2026-04-25 22:23:47,708 - INFO - No cache for 'indian oil', running scraper…
+2026-04-25 22:23:47,709 - INFO - Research started for: 'indian oil'
+2026-04-25 22:23:49,464 - INFO - RSS fetch successful (200) for 'indian oil'
+2026-04-25 22:23:49,650 - INFO - Found 100 raw articles for 'indian oil'
+2026-04-25 22:23:49,655 - INFO - [FILTERED] Not relevant to 'indian oil': Strategic petroleum reserves: Why India needs bigger oil buffers & how
+2026-04-25 22:23:49,660 - INFO - [FILTERED] Not relevant to 'indian oil': Govt ensures 100% domestic LPG, PNG, CNG supply amid West Asia tension
+2026-04-25 22:23:49,666 - INFO - [FILTERED] Not relevant to 'indian oil': India oil firms tap reserves as Hormuz crisis disrupts supply - Telang
+2026-04-25 22:23:49,668 - INFO - [FILTERED] Not relevant to 'indian oil': Tariffs, Oil, and the Rupee: India's External Reckoning - orfonline.or
+2026-04-25 22:23:49,672 - INFO - [FILTERED] Not relevant to 'indian oil': Why India Is Not Energy-Secure Amid Global Oil Shocks - Frontline Maga
+2026-04-25 22:23:49,678 - INFO - [FILTERED] Not relevant to 'indian oil': IOCL vs BPCL vs HPCL: Which PSU Oil Stock Leads India’s Energy Market 
+2026-04-25 22:23:49,681 - INFO - [FILTERED] Not relevant to 'indian oil': Karnataka Energy Supply Stable Amid Auto LPG Shift, Regulator Cracks D
+2026-04-25 22:23:49,828 - INFO - Saved 8 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\indian_oil.xlsx
+2026-04-25 22:23:49,937 - INFO - 127.0.0.1 - - [25/Apr/2026 22:23:49] "GET /articles?company=indian%20oil HTTP/1.1" 200 -
+2026-04-25 22:39:37,924 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\__init__.py', reloading
+2026-04-25 22:39:42,258 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-25 22:39:55,385 - WARNING -  * Debugger is active!
+2026-04-25 22:39:55,437 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 23:23:38,778 - INFO -  * Detected change in 'c:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\scraper\\scraper.py', reloading
+2026-04-25 23:23:40,715 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-25 23:23:44,864 - WARNING -  * Debugger is active!
+2026-04-25 23:23:44,877 - INFO -  * Debugger PIN: 919-591-278
+2026-04-25 23:23:48,876 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\feedparser\\__init__.py', reloading
+2026-04-25 23:23:50,320 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-25 23:24:01,298 - WARNING -  * Debugger is active!
+2026-04-25 23:24:01,309 - INFO -  * Debugger PIN: 919-591-278
+2026-04-26 00:28:22,675 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\__init__.py', reloading
+2026-04-26 00:28:24,643 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-26 00:28:32,299 - WARNING -  * Debugger is active!
+2026-04-26 00:28:32,313 - INFO -  * Debugger PIN: 919-591-278
+2026-04-26 00:28:33,010 - INFO -  * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\scraper\\scraper.py', reloading
+2026-04-26 00:28:33,770 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-26 00:28:39,838 - WARNING -  * Debugger is active!
+2026-04-26 00:28:39,850 - INFO -  * Debugger PIN: 919-591-278
+2026-04-26 00:28:43,122 - INFO -  * Detected change in 'c:\\Users\\hp\\OneDrive\\Desktop\\VIBE\\app.py', reloading
+2026-04-26 00:28:44,477 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-26 00:28:50,440 - WARNING -  * Debugger is active!
+2026-04-26 00:28:50,450 - INFO -  * Debugger PIN: 919-591-278
+2026-04-26 00:32:52,495 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-26 00:32:52,498 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-26 00:32:52,545 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-26 00:32:55,054 - WARNING -  * Debugger is active!
+2026-04-26 00:32:55,067 - INFO -  * Debugger PIN: 919-591-278
+2026-04-26 00:33:09,412 - INFO - 127.0.0.1 - - [26/Apr/2026 00:33:09] "[36mGET / HTTP/1.1[0m" 304 -
+2026-04-26 00:33:14,820 - INFO - GET /articles?company=zomato
+2026-04-26 00:33:14,822 - INFO - No cache for 'zomato', running scraper…
+2026-04-26 00:33:15,693 - INFO - Research started for: 'zomato'
+2026-04-26 00:33:17,875 - INFO - RSS fetch successful (200) for 'zomato'
+2026-04-26 00:33:17,928 - INFO - Found 100 raw articles for 'zomato'
+2026-04-26 00:33:17,942 - INFO - [FILTERED] Not relevant to 'zomato': RR vs SRH IPL 2026 Match 36 Tickets: Booking, Price & Availability - w
+2026-04-26 00:33:19,727 - INFO - Saved 14 articles to C:\Users\hp\OneDrive\Desktop\VIBE\data\zomato.xlsx
+2026-04-26 00:33:20,073 - INFO - 127.0.0.1 - - [26/Apr/2026 00:33:20] "GET /articles?company=zomato HTTP/1.1" 200 -
+2026-04-26 00:38:19,366 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python313\\site-packages\\_pytest\\cacheprovider.py', reloading
+2026-04-26 00:38:20,035 - INFO -  * Restarting with watchdog (windowsapi)
+2026-04-26 00:38:23,744 - WARNING -  * Debugger is active!
+2026-04-26 00:38:23,751 - INFO -  * Debugger PIN: 919-591-278
